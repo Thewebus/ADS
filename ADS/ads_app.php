@@ -1,0 +1,3 @@
+<div id="company_all">
+Chargement des données en cours, veuillez patienter SVP ...
+</div>
